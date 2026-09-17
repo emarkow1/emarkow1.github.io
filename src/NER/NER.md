@@ -2,6 +2,10 @@
 
 I have been a part of Northeastern Electric Racing since the spring of 2024, my freshmen year at Northeastern. I've spent that time in various roles in the club and it has been one of if not the largest contributor to my knowledge and application of electrical engineering.
 
+## Background
+
+Northeastern Electric Racing is the Formula SAE team at Northeastern University. It is one of the largest engineering clubs on campus and features engineers and students of all majors coming together on a multidisciplinary project. Every year NER builds a formula-style all-electric racecar and competes with similar teams all across the country.
+
 ## Timeline
 
 | Time | Role |
