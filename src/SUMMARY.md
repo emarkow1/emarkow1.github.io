@@ -11,8 +11,8 @@
         - [BMS](NER/CEE/BMS/BMS.md)
         - [Pack Sizing](NER/CEE/Pack_Sizing/Pack_Sizing.md)
     - [Head of Electrical Powertrain](NER/HEP/HEP.md)
-    - [TSAL 24](NER/TSAL24/TSAL_24.md)
+    - [RTML 24](NER/RTML_24/RTML_24.md)
 - [ADI](ADI/ADI.md)
     - [PERPP](ADI/PERPP/PERPP.md)
-- [RTX BBN](RTX/RTX_BBN.md)
-- [Thales](Thales/Thales.md)
+<!-- - [RTX BBN](RTX/RTX_BBN.md)
+- [Thales](Thales/Thales.md) -->
