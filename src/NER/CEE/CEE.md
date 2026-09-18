@@ -2,6 +2,8 @@
 
 Between July 2025 and June 2026 I served as the Chief Electrical Engineer for Northeastern Electric Racing. In this position I was responsible for the entire electrical system of the 25A competition vehicle, including technical specifications, budgets, timelines, and personel management. This was a very stressful and demanding position, but also one that I found to be quite rewarding.
 
+![25A](25A.png)
+
 ## Responsibilities
 
 ### Team Management
