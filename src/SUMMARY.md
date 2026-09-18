@@ -8,8 +8,8 @@
     - [Chief Electrical Engineer](NER/CEE/CEE.md)
         - [Lightning Board](NER/CEE/Lightning_Board/Lightning_Board.md)
         - [Flex PCBs](NER/CEE/Flex_PCBs/Flex_PCBs.md)
-        - [BMS](NER/CEE/BMS/BMS.md)
-        - [Pack Sizing](NER/CEE/Pack_Sizing/Pack_Sizing.md)
+        <!-- - [BMS](NER/CEE/BMS/BMS.md)
+        - [Pack Sizing](NER/CEE/Pack_Sizing/Pack_Sizing.md) -->
     - [Head of Electrical Powertrain](NER/HEP/HEP.md)
     - [RTML 24](NER/RTML_24/RTML_24.md)
 - [ADI](ADI/ADI.md)
